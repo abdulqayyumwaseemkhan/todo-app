@@ -1,10 +1,12 @@
 // import MyUseEffect from "./components/MyUseEffect";
-import Todo from "./components/Todo";
+// import Todo from "./components/Todo";
+import Weather from "./components/Weather";
 
 function App() {
   return (
     <>
-      <Todo />
+      {/* <Todo /> */}
+      <Weather />
       {/* <MyUseEffect /> */}
     </>
   );

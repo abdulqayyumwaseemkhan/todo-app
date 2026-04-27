@@ -8,20 +8,9 @@ html {
   color: white;
   font-family: sans-serif;
 }
-/* .todo-app
 
-.add-task
-
-.task-entry
-.add-btn
-.show-entry
-
-.list-entry */
 .todo-app {
   width: 30rem;
-  /* box-shadow: 0px 2px 5px rgb(74, 72, 72); */
-  /* border-radius: 0.5rem; */
-  /* margin-top: 10rem; */
   text-align: center;
   padding: 10px 20px;
   margin: auto;
